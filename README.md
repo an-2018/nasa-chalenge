@@ -1,4 +1,4 @@
-# nasa-chalenge
+# Space apps - Design by Nature chalenge - TLTF _ Cape Verde 
 Developing a autonomous free-flyer to inspect a spacecraft for damage from Micro-Meteoroid and Orbital Debris 
 
 Here it's presented the dasboard developed with node red, developed on NASA's International Space Apps Challenge.
